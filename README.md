@@ -1,2 +1,2 @@
 # My-websites-frontend
-Config files for my GitHub profile.
+These projects were created by an Uzbek developer.
